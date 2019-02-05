@@ -1,11 +1,11 @@
 import React from "react"
 
-const Hello = () => {
- //       return (
-  //          <div> Hello World</div>  
-  //      )
-//}
+//       return (
+//          <div> Hello World</div>  
+//      )
+//  }
 
+const Hello = () => {
 return (
     <p className="content-text">Hello World</p>
 )
