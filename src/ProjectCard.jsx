@@ -12,7 +12,7 @@ const ProjectCard = (props) => {
                 <div className="font-bold text-xl mb-2">{project.name}</div>
                 <p className="text-grey-darker text-base">
                     {project.description}
-                </p>
+                </p>    
             </div>
 
             <div className="flex items-center justify-between leading-none p-2 md:p-4">
