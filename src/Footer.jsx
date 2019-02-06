@@ -1,14 +1,5 @@
 import React from "react"
 
-//    return (
-//      <div class="border-t border-smoke px-8 py-4">
-//              <div class="flex justify-center text-grey">
-//                      Made with React
-//             </div>
-//      </div>
-//  )
-// }
-
 const Footer = () => {
 return (
     <div className="footer-wrapper">
@@ -19,3 +10,12 @@ return (
 )
 }
 export default Footer
+
+//    return (
+//      <div class="border-t border-smoke px-8 py-4">
+//              <div class="flex justify-center text-grey">
+//                      Made with React
+//             </div>
+//      </div>
+//  )
+// }

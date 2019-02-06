@@ -1,13 +1,6 @@
 import React from "react"
 import { NavLink, Link } from 'react-router-dom';
 
-//   return (
-//      <nav className="flex items-center justify-between flex-wrap bg-blue-darkest p-6">
-//             <h1 className="text-white text-3xl">My Portfolio</h1>
-//    </nav>
-//    )
-//}
-
 const Header = () => {
 return (
     <nav className="header">
@@ -23,3 +16,10 @@ return (
 }
 
 export default Header
+
+//   return (
+//      <nav className="flex items-center justify-between flex-wrap bg-blue-darkest p-6">
+//             <h1 className="text-white text-3xl">My Portfolio</h1>
+//    </nav>
+//    )
+//}

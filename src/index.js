@@ -9,21 +9,6 @@ import Projects from "./Projects";
 import About from "./About"
 import { Switch, Route } from 'react-router-dom'
 
-
-
-//    return (
- //       <div className="min-h-screen">
- //           <div className="flex flex-col w-full fixed pin-l pin-y">
-  //              <Header />
-  //              <div className="px-4 pt-4 flex-1 overflow-y-scrol">
-   //                 <Hello />
-  //              </div>
-   //             <Footer />
-  //          </div >
-  //      </div >
-//)
-//};
-
 const App = () => {
     return (
     <div className="page-wrapper">
@@ -48,3 +33,16 @@ ReactDOM.render((
         <App />
     </BrowserRouter>
 ), document.getElementById('app'));
+
+//    return (
+ //       <div className="min-h-screen">
+ //           <div className="flex flex-col w-full fixed pin-l pin-y">
+  //              <Header />
+  //              <div className="px-4 pt-4 flex-1 overflow-y-scrol">
+   //                 <Hello />
+  //              </div>
+   //             <Footer />
+  //          </div >
+  //      </div >
+//)
+//};
