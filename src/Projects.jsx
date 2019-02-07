@@ -27,7 +27,7 @@ class Projects extends Component {
 
         return (
             <div>
-                <h1 className="content-text">My Projects</h1>
+                <h1 className="text-white font-sans ml-20 pt-6 pb-4">My Projects so far...</h1>
                 {projectsList}
             </div>
         )

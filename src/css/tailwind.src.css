@@ -15,7 +15,7 @@
 }
 
 .header-title {
-    @apply text-white text-3xl 
+    @apply text-white text-2xl 
 }
 
 
@@ -32,5 +32,5 @@
 }
 
 .content-text {
-    @apply text-red text-5xl font-serif ml-10 pt-200 
+    @apply text-red text-3xl font-serif ml-10 pt-200 
 }

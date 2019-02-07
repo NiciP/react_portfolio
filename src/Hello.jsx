@@ -3,13 +3,11 @@ import React from "react"
 const Hello = () => {
 return (
     
-    <p className="content-text">"Welcome to a new world of discovery..."</p>
+    //<div className="content-text text-white"></div>,
+    <p className="text-grey-darker text-5xl mt-20 ml-20">"Welcome to a world of discovery..."</p>
+    
 )
 }
 
 export default Hello
 
-//       return (
-//          <div> Hello World</div>  
-//      )
-//  }

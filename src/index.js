@@ -12,6 +12,7 @@ import { Switch, Route } from 'react-router-dom'
 const App = () => {
     return (
     <div className="page-wrapper">
+    <div className="page-wrapper"></div>
         <div className="page-content">
             <Header />
             <div className="content-wrapper">

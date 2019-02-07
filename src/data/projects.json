@@ -1,20 +1,21 @@
 [
     {
         "id": 1,
-        "name": "Fizz Buzz Challenge",
-        "image": "https://inspiring-sinoussi-f48baf.netlify.com/",
-        "description": "This was my first project. The guy lost, but won the popular vote!"
+        "name": "Fizz Buzz Game",
+        "image": "../../../giphy.gif",
+        "description": "A game of numbers! The program returns values based on user input",
+        "link" : "https://inspiring-sinoussi-f48baf.netlify.com/"
     },
     {
         "id": 2,
-        "name": "UI Design",
-        "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-        "description": "Designing user interfaces is fun. I want to learn more about that..."
+        "name": "Address Book",
+        "image": "../../../book.gif",
+        "description": "A functional address book that stores contact details on the app in the form of cards"
     },
     {
         "id": 3,
-        "name": "Mobile UX",
-        "image": "https://images.unsplash.com/photo-1534237886190-ced735ca4b73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-        "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding."
+        "name": "BMI Calculator",
+        "image": "../../../BMI.jpg",
+        "description": "A calculator that determines your Body Mass Index based on the weight and height of a person"
     }
 ]
