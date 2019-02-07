@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Fizz Buzz Game",
+        "image": "../../../giphy.gif",
+        "description": "A game of numbers! The program returns values based on user input",
+        "link" : "https://inspiring-sinoussi-f48baf.netlify.com/"
+    },
+    {
+        "id": 2,
+        "name": "Address Book",
+        "image": "../../../book.gif",
+        "description": "A functional address book that stores contact details on the app in the form of cards"
+    },
+    {
+        "id": 3,
+        "name": "BMI Calculator",
+        "image": "../../../BMI.jpg",
+        "description": "A calculator that determines your Body Mass Index based on the weight and height of a person"
+    }
+]
