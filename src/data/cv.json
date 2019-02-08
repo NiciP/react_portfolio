@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "position": "Assistant General Manager",
+        "Company": "Best Western Plus – Velmoré", 
+        "Date": "2017",
+
+        "id": 2,
+        "Position": "Managing Owner",
+        "Company": "Villas Hotel Group",
+        "Date": "2016-2017",
+
+        "id": 3,
+        "Position": "General Manager",
+        "Company": "Villas Hotel Group",
+        "Date": "2014-2016",
+        
+        "id": 4,
+        "Position": "POS Systems Consultant",
+        "Company": "Micros South Africa",
+        "Date": "2012-2014",
+
+        "id": 5,
+        "Position": "Property Manager",
+        "Company": "Chamonix Lodge",
+        "Date": "2010-2012",
+
+        "id": 6,
+        "Position": "Front of House Supervisor",
+        "Company": "Hoste Arms Luxury Hotel, UK",
+        "Date": "2009",
+
+        "id": 7,
+        "Position": "Events & Conference Staff",
+        "Company":"Basingst. Business Hotel, UK",
+        "Date": "2009",
+
+        "id": 8,
+        "Position": "Guest Services",
+        "Company": "Kalahari Water Park, USA",
+        "Date": "2008"
+    },
+]
