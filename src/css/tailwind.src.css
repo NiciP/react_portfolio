@@ -32,5 +32,5 @@
 }
 
 .content-text {
-    @apply text-red text-3xl font-serif ml-10 pt-200 
+    @apply text-grey-darker text-3xl font-serif ml-10 mt-10
 }
