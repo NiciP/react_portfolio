@@ -28,6 +28,6 @@ npm test
 Will initialize both the test build and start commands
 
 
-SITE DEPLOYED on Netlify
+SITE DEPLOYED on Netlify: https://niciportfolio.netlify.com/
 
 Created by : Nici 
