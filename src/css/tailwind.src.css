@@ -31,5 +31,9 @@
 }
 
 .content-text {
-    @apply text-grey-darker text-3xl font-serif ml-10 mt-10
+    @apply text-grey-darker text-3xl font-sans ml-10 mt-10
+}
+
+.content-text-info {
+    @apply text-white text-2xl font-sans ml-10 mt-10
 }

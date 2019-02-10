@@ -6,8 +6,7 @@ class Cv extends Component {
     constructor() {
         super();
         this.state = {
-            cvs: [],
-            edu: []
+            cvs: []
         };
     }
 
@@ -22,26 +21,12 @@ class Cv extends Component {
                 )
             })
         }
-
-        render() {
-            const edu = this.state.edu
-            let eduList 
-    
-            if (edu.length > 0) {
-                eduList = edu.map(ed => {
-                    return (
-                        <div key={edu.eid} className="min-h-2000 my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3"><CVcard ed={ed}/></div>
-                    )
-                })
-            }
-        }
-
+        
 
         return (
             <div>
-                <h1 className="text-white font-sans ml-20 pt-6 pb-4">My Career summary...</h1>
+                <h1 className="text-grey-darker font-sans ml-20 pt-6 pb-4">My Career summary...</h1>
                 {cvList}
-                {eduList}
             </div>
         )
     }
@@ -50,8 +35,7 @@ class Cv extends Component {
         axios.get('./src/data/cv.json')
             .then(response => {
                 this.setState({
-                    cvs: response.data,
-                    edu: response.data
+                    cvs: response.data
                 })
             })
 }
