@@ -1,0 +1,38 @@
+[
+    {      
+        "id": 1,
+        "Position": "POSITIONS:  Assistant General Manager",
+        "Company": "Best Western Plus Hotel – Velmoré", 
+        "Date": "2017"
+    },
+    {
+        "id": 2,
+        "Position": "Operations Manager",
+        "Company": "Marketing Venture",
+        "Date": "2016 - 2017"
+    },
+    {
+        "id": 3,
+        "Position": "General Manager",
+        "Company": "Villas Hotel Group",
+        "Date": "2014 - 2016"
+    },
+    {
+        "id": 4,
+        "Position": "POS Systems Consultant",
+        "Company": "Micros South Africa",
+        "Date": "2012 - 2014"
+    },
+    {
+        "id": 9,
+        "Education": "EDUCATION:  CHA® Certified Hotel Administrator",
+        "Institute": "American Hotel & Lodging Education Institute, International Hotel School",
+        "Dates": "2016 - 2017"
+},
+{
+        "id": 10,
+        "Education": "Bachelor’s Degree in Tourism Management",
+        "Institute": "University of Pretoria, SA",
+        "Dates": "2006 - 2008"
+}
+]
