@@ -9,10 +9,10 @@ const CVcard = (props) => {
                 <div className="px-2 py-4" style={{ minHeight: '80px' }} >
                     <div className="text-white font-bold text-2xl mb-2">{cv.Position}</div>
                     <div className="text-white font-bold text-2xl mb-2">{cv.Education}</div>
-                    <p className="text-grey-dark text-lg mb-2">{cv.Company}</p>
-                    <p className="text-grey-dark text-lg mb-2">{cv.Institute}</p>  
-                    <p className="text-xs text-white">{cv.Date}</p> 
-                    <p className="text-xs text-white">{cv.Dates}</p> 
+                    <p className="text-grey-dark text-xl mb-2">{cv.Company}</p>
+                    <p className="text-grey-dark text-xl mb-2">{cv.Institute}</p>  
+                    <p className="text-sm text-white">{cv.Date}</p> 
+                    <p className="text-sm text-white">{cv.Dates}</p> 
                 </div>
 
                 <div className="flex items-center justify-between leading-none md:p-4">
